@@ -4,8 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-
-Deploy link-(`nextjsprojectfor-testingperpose.vercel.app`)
+🌐 Live Project:
+The application is deployed on Vercel using the GitHub repository for continuous integration and automatic updates.
+🔗 https://nextjsprojectfor-testingperpose.vercel.app
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
